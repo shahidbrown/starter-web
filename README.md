@@ -18,3 +18,6 @@ This is content and text on the contribution section
 ##Updating
 This is updated content
 this is a new line of text
+
+##Copyright 
+2016 Git and GIthub Training 
