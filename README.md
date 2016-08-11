@@ -14,3 +14,7 @@ Sample website with plenty of files for demos
 
 ## How to Contribute
 This is content and text on the contribution section
+
+##Updating
+This is updated content
+this is a new line of text
