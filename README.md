@@ -13,3 +13,4 @@ This is new information about Shahid's Purpose
 Sample website with plenty of files for demos
 
 ## How to Contribute
+This is content and text on the contribution section
